@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ytimg.com/vi/3Euny2PZQ1Q/maxresdefault.jpg" style="width:100%; border-radius:10px;" alt="The Good, the Bad and the Ugly"/>
+  <img src="https://s.cafebazaar.ir/images/upload/screenshot/dark.fantasy.game-3b1ddcbd-4fa8-479a-9782-9e171bc9af4f.jpeg?x-img=v1/resize,h_600,lossless_false/optimize" style="width:100%; border-radius:10px;" alt="Banner"/>
 </p>
 
 <h1 align="center">Hi! I'm RaxatMaster 👋</h1>
