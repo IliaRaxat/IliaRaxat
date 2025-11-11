@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="file:///C:/Users/astra/Downloads/photo_2025-11-12_00-01-19.jpg" style="width:100%; border-radius:10px;"/>
+  <img src="[file:///C:/Users/astra/Downloads/photo_2025-11-12_00-01-19.jpg](https://play-lh.googleusercontent.com/qPm7GmZkDoxZnTW0qiTJmdn26IuDgHNZ4N1539c6QesYrcbTf8B_rH8RtrBK9d39FPuDx-J7AF5AUs_GRV6Uig=w526-h296-rw)" style="width:100%; border-radius:10px;"/>
 </p>
 
 <h1 align="center">Hi! I'm RaxatMaster 👋</h1>
