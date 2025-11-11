@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ytimg.com/vi/3Euny2PZQ1Q/maxresdefault.jpg" width="600"/>
+  <img src="https://i.ytimg.com/vi/3Euny2PZQ1Q/maxresdefault.jpg" style="width:100%; border-radius:10px;"/>
 </p>
 
 <h1 align="center">Hi! I'm Oaoa12 👋</h1>
