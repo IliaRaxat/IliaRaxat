@@ -14,10 +14,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oaoa12&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oaoa12&theme=tokyonight&hide_border=false" height="150"/>
-</p>
-
 ---
 
 ## 🛠 Skills & Technologies
