@@ -28,25 +28,24 @@
 
 ---
 
-## 🚀 Projects & Achievements
+## 🎨 Projects Showcase
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/State Management-Redux%20Toolkit-purple?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit"/>
-  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Deployed-Vercel-red?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <a href="https://github.com/Oaoa12/MultiBank" target="_blank">
+    <img src="./assets/pr1.PNG" width="220" style="border-radius:12px; transition: transform 0.3s;" alt="MultiBank Project" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+    <br><strong>MultiBank</strong> - React, Redux Toolkit
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Oaoa12/todo-app" target="_blank">
+    <img src="https://media.giphy.com/media/3o7aD6U9s1K1l6AX9y/giphy.gif" width="220" style="border-radius:12px; transition: transform 0.3s;" alt="Todo App" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+    <br><strong>Todo App</strong> - React, Node.js
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Oaoa12/portfolio" target="_blank">
+    <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="220" style="border-radius:12px; transition: transform 0.3s;" alt="Portfolio" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+    <br><strong>Portfolio</strong> - React, CSS
+  </a>
 </p>
-
-<p align="center">
-  <strong>Fun Facts:</strong>
-</p>
-<ul>
-  <li>💻 Built <strong>3 full-stack apps</strong> with React + Node.js + PostgreSQL</li>
-  <li>⚡ Optimized state management using <strong>Redux Toolkit</strong></li>
-  <li>🎨 Created interactive and responsive UI with modern CSS and React</li>
-  <li>🚀 Deployed projects online with <strong>Vercel</strong> and shared on GitHub</li>
-</ul>
 
 ---
 
