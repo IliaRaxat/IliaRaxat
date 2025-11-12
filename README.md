@@ -14,10 +14,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oaoa12&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oaoa12&theme=tokyonight&hide_border=false" height="150"/>
-</p>
-
 ---
 
 ## 🛠 Skills & Technologies
@@ -30,22 +26,49 @@
 
 ## 🎨 Projects Showcase
 
-<p align="center">
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
+
+<!-- Project 1 -->
+<div style="width:220px; border-radius:12px; overflow:hidden; box-shadow:0 6px 20px rgba(0,0,0,0.15); transition:transform 0.3s;">
   <a href="https://github.com/Oaoa12/MultiBank" target="_blank">
-    <img src="./assets/pr1.PNG" width="220" style="border-radius:12px; transition: transform 0.3s;" alt="MultiBank Project" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
-    <br><strong>MultiBank</strong> - React, Redux Toolkit
+    <img src="./assets/pr1.PNG" style="width:100%; display:block;" alt="MultiBank"/>
+    <div style="padding:12px; background:#1e1e2f; color:white; text-align:center;">
+      <strong>MultiBank</strong><br>
+      React · Redux Toolkit
+    </div>
   </a>
-  &nbsp;&nbsp;&nbsp;
+</div>
+
+<!-- Project 2 -->
+<div style="width:220px; border-radius:12px; overflow:hidden; box-shadow:0 6px 20px rgba(0,0,0,0.15); transition:transform 0.3s;">
   <a href="https://github.com/Oaoa12/todo-app" target="_blank">
-    <img src="https://media.giphy.com/media/3o7aD6U9s1K1l6AX9y/giphy.gif" width="220" style="border-radius:12px; transition: transform 0.3s;" alt="Todo App" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
-    <br><strong>Todo App</strong> - React, Node.js
+    <img src="https://media.giphy.com/media/3o7aD6U9s1K1l6AX9y/giphy.gif" style="width:100%; display:block;" alt="Todo App"/>
+    <div style="padding:12px; background:#1e1e2f; color:white; text-align:center;">
+      <strong>Todo App</strong><br>
+      React · Node.js
+    </div>
   </a>
-  &nbsp;&nbsp;&nbsp;
+</div>
+
+<!-- Project 3 -->
+<div style="width:220px; border-radius:12px; overflow:hidden; box-shadow:0 6px 20px rgba(0,0,0,0.15); transition:transform 0.3s;">
   <a href="https://github.com/Oaoa12/portfolio" target="_blank">
-    <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="220" style="border-radius:12px; transition: transform 0.3s;" alt="Portfolio" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
-    <br><strong>Portfolio</strong> - React, CSS
+    <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" style="width:100%; display:block;" alt="Portfolio"/>
+    <div style="padding:12px; background:#1e1e2f; color:white; text-align:center;">
+      <strong>Portfolio</strong><br>
+      React · CSS
+    </div>
   </a>
-</p>
+</div>
+
+</div>
+
+<style>
+div[align="center"] > div:hover {
+  transform: scale(1.05);
+  box-shadow: 0 12px 28px rgba(0,0,0,0.25);
+}
+</style>
 
 ---
 
