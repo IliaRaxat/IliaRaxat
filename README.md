@@ -28,18 +28,17 @@
 
 <p align="center">
   <a href="https://github.com/Oaoa12/MultiBank" target="_blank">
-    <img src="./assets/pr1.PNG" style="width:90%; max-width:600px; border-radius:12px;" alt="MultiBank"/>
+    <img src="./assetspr1.PNG" style="width:90%; max-width:600px; border-radius:12px;" alt="MultiBank"/>
   </a>
   <br>
   <strong>MultiBank</strong> — Next.js · TypeScript · Redux Toolkit · NestJS
 </p>
 
 <p align="center">
-  <a href="https://github.com/Oaoa12/todo-app" target="_blank">
+  <a ноhref="https://github.com/Oaoa12/todo-app" target="_blank">
     <img src="https://media.giphy.com/media/3o7aD6U9s1K1l6AX9y/giphy.gif" style="width:90%; max-width:600px; border-radius:12px;" alt="Todo App"/>
   </a>
-  <br>
-  <strong> App</strong> — React · Node.js
+  <br>  <strong> App</strong> — React · Node.js
 </p>
 
 <p align="center">
