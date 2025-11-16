@@ -26,20 +26,14 @@
 
 ## 🚀 My Projects
 
-### 📱 Multibank — Mobile View
-<p align="center">
-  <img src="./pr2.png" alt="Multibank Mobile" width="300" style="border-radius:10px;"/>
-</p>
+### 📱 Multibank — Mobile Version
 
 <p align="center">
-  <b>Multibank</b> — многофункциональное банковское приложение.  
-  (Скоро добавлю скриншот версии для ПК 👇)
-</p>
-
-### 🖥 Multibank — Desktop View
-<p align="center">
-  <!-- Добавишь позже свой pr-desktop.png -->
-  <!-- <img src="./pr-desktop.png" alt="Multibank Desktop" width="600" style="border-radius:10px;"/> -->
+  <img 
+    src="https://raw.githubusercontent.com/Oaoa12/Oaoa12/main/pr2.png" 
+    alt="Multibank Mobile" 
+    style="width:300px; border-radius:10px;"
+  />
 </p>
 
 ---
@@ -56,8 +50,8 @@
   <a href="mailto:ilshih@mail.ru" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/HH.ru-E32636?style=for-the-badge&logo=yandex&logoColor=white"/>
+  <a href="https://hh.ru" target="_blank">
+    <img src="https://img.shields.io/badge/HeadHunter-DA291C?style=for-the-badge&logo=hh&logoColor=white"/>
   </a>
 </p>
 
