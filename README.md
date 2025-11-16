@@ -24,19 +24,6 @@
 
 ---
 
-## 🚀 My Projects
-
-###  Multibank
-
-<p align="center">
-  <img 
-    src="./assets/pr2.PNG" 
-    alt="Multibank Mobile" 
-    style="width:300px; border-radius:10px;"
-  />
-</p>
-
----
 
 ## 📫 Contact Me
 
