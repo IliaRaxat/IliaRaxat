@@ -26,7 +26,7 @@
 
 ## 🚀 My Projects
 
-### 📱 Multibank — Mobile Version
+###  Multibank
 
 <p align="center">
   <img 
