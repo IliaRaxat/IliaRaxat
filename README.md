@@ -30,7 +30,7 @@
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/Oaoa12/Oaoa12/main/pr2.png" 
+    src="./pr2.png" 
     alt="Multibank Mobile" 
     style="width:300px; border-radius:10px;"
   />
