@@ -30,7 +30,7 @@
 
 <p align="center">
   <img 
-    src="./pr1.PNG" 
+    src="./assets/pr2.PNG" 
     alt="Multibank Mobile" 
     style="width:300px; border-radius:10px;"
   />
