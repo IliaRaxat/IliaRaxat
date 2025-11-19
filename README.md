@@ -1,7 +1,7 @@
 <p align="center">
   <img 
-    src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1200&q=60" 
-    alt="Banner" 
+    src="https://s.cafebazaar.ir/images/upload/screenshot/dark.fantasy.game-3b1ddcbd-4fa8-479a-9782-9e171bc9af4f.jpeg?x-img=v1/resize,h_600,lossless_false/optimize"
+    alt="Banner"
     style="width:100%; max-width:900px; border-radius:14px;"
   />
 </p>
@@ -12,10 +12,12 @@
 ---
 
 ## 🚀 About Me
-I'm a Frontend / Full-Stack JavaScript developer who creates fast, modern and reliable web-applications.  
-Specialize in building production-ready interfaces using **React + Next.js**, complex logic with **Redux Toolkit**, and backend with **Node.js + PostgreSQL**.
 
-I write clean, structured and scalable code — the kind of code that is easy to support and develop.
+I build modern, fast and scalable web-applications using the latest JavaScript ecosystem.  
+Focused on clean architecture, performance and polished UI/UX.
+
+I work with both **Frontend** (React, Next.js, Redux Toolkit) and **Backend**  
+(Node.js + Express + PostgreSQL).
 
 ---
 
@@ -30,16 +32,16 @@ I write clean, structured and scalable code — the kind of code that is easy to
 ## 📂 Featured Projects
 
 ### 🔹 **HR Platform (Full-Stack)**
-**React + Redux Toolkit + Node.js + PostgreSQL**  
-Role system, authentication, dashboards, employee management.  
-👉 *Private but available upon request.*
+React + Redux Toolkit + Node.js + PostgreSQL  
+Authentication, role system, dashboards, employee management.  
+📌 *Private repository — available upon request.*
 
 ---
 
 ### 🔹 **Multibank App**
-**React + Redux Toolkit + API integrations**  
-Multi-bank account system, transactions, secure login.  
-👉 *Private but available upon request.*
+React + Redux Toolkit + API integrations  
+Secure login, multi-bank accounts, transactions.  
+📌 *Private repository — available upon request.*
 
 ---
 
@@ -60,12 +62,10 @@ Multi-bank account system, transactions, secure login.
 
 ## 🧩 Currently Working On
 - Full-Stack applications with authentication  
-- Optimization & performance tuning  
-- Clean architecture & reusable components  
-- Improving my portfolio and GitHub presence  
+- Improving React architecture and performance  
+- UI/UX refinement and reusable components  
+- Expanding portfolio and public repositories  
 
 ---
 
-<p align="center">
-  ⭐️ Thanks for visiting my profile! ⭐️  
-</p>
+<p align="center">✨ Thanks for visiting my profile! ✨</p>
