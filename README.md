@@ -49,15 +49,4 @@ I work with both **Frontend** (React, Next.js, Redux Toolkit) and **Backend**
 
 ---
 
-## 📬 Contact
-
-<p align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Write%20Me-blue?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://t.me/yourtelegram">
-    <img src="https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram"/>
-  </a>
-</p>
-
 <p align="center">✨ Thanks for visiting my profile! ✨</p>
