@@ -47,16 +47,34 @@ Secure login, multi-bank accounts, transactions.
 
 ## 📊 GitHub Stats
 
+<div align="center">
+  
+  <!-- Вариант A: Статистика профиля -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Oaoa12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&hide_title=false" 
+    height="165"
+    alt="GitHub Stats"
+  />
+  
+  <!-- Вариант B: Топ языков -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oaoa12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8&size_weight=0.5&count_weight=0.5" 
+    height="165"
+    alt="Top Languages"
+  />
+  
+</div>
+
+<!-- Альтернативная статистика для проверки -->
+<!--
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="160"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" 
-    height="160"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Oaoa12&theme=tokyonight&hide_border=true&background=0D1117"
+    height="165"
+    alt="GitHub Streak"
   />
 </p>
+-->
 
 ---
 
@@ -67,5 +85,11 @@ Secure login, multi-bank accounts, transactions.
 - Expanding portfolio and public repositories  
 
 ---
+
+<p align="center">
+  <a href="https://github.com/Oaoa12?tab=repositories">
+    <img src="https://custom-icon-badges.demolab.com/badge/-View%20All%20Repos-0D1117?style=for-the-badge&logoColor=white&logo=repo" alt="View All Repos"/>
+  </a>
+</p>
 
 <p align="center">✨ Thanks for visiting my profile! ✨</p>
