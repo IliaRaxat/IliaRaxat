@@ -45,16 +45,28 @@ Secure login, multi-bank accounts, transactions.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (работает без токенов и без локальных команд)
 
 <p align="center">
+  <!-- Profile details card -->
   <img 
-    src="https://github-readme-stats-godkingjay.vercel.app/api?username=Oaoa12&show_icons=true&theme=tokyonight&hide_border=true" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oaoa12&theme=tokyonight" 
     height="160"
+    alt="Profile Details"
   />
+
+  <!-- Top languages by repo -->
   <img 
-    src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=Oaoa12&layout=compact&theme=tokyonight&hide_border=true" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Oaoa12&theme=tokyonight" 
     height="160"
+    alt="Top languages by repo"
+  />
+
+  <!-- General stats -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Oaoa12&theme=tokyonight" 
+    height="160"
+    alt="GitHub Stats"
   />
 </p>
 
