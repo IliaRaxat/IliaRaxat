@@ -48,33 +48,40 @@ Secure login, multi-bank accounts, transactions.
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  <!-- Вариант A: Статистика профиля -->
+
+  <!-- Streak Stats (работает более стабильно) -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Oaoa12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&hide_title=false" 
+    src="https://streak-stats.demolab.com?user=Oaoa12&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117"
     height="165"
-    alt="GitHub Stats"
+    alt="GitHub Streak"
   />
   
-  <!-- Вариант B: Топ языков -->
+  <!-- Profile Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oaoa12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8&size_weight=0.5&count_weight=0.5" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Oaoa12&theme=tokyonight"
     height="165"
-    alt="Top Languages"
+    alt="Profile Stats"
   />
   
 </div>
 
-<!-- Альтернативная статистика для проверки -->
-<!--
-<p align="center">
+<div align="center">
+  
+  <!-- Top Languages -->
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Oaoa12&theme=tokyonight&hide_border=true&background=0D1117"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Oaoa12&theme=tokyonight&exclude=html,css"
     height="165"
-    alt="GitHub Streak"
+    alt="Top Languages"
   />
-</p>
--->
+  
+  <!-- Most Used Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oaoa12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"
+    height="165"
+    alt="Most Used Languages"
+  />
+  
+</div>
 
 ---
 
@@ -85,11 +92,5 @@ Secure login, multi-bank accounts, transactions.
 - Expanding portfolio and public repositories  
 
 ---
-
-<p align="center">
-  <a href="https://github.com/Oaoa12?tab=repositories">
-    <img src="https://custom-icon-badges.demolab.com/badge/-View%20All%20Repos-0D1117?style=for-the-badge&logoColor=white&logo=repo" alt="View All Repos"/>
-  </a>
-</p>
 
 <p align="center">✨ Thanks for visiting my profile! ✨</p>
