@@ -47,41 +47,16 @@ Secure login, multi-bank accounts, transactions.
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-  <!-- Streak Stats (работает более стабильно) -->
+<p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=Oaoa12&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117"
-    height="165"
-    alt="GitHub Streak"
+    src="https://github-readme-stats-godkingjay.vercel.app/api?username=Oaoa12&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="160"
   />
-  
-  <!-- Profile Stats -->
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Oaoa12&theme=tokyonight"
-    height="165"
-    alt="Profile Stats"
+    src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=Oaoa12&layout=compact&theme=tokyonight&hide_border=true" 
+    height="160"
   />
-  
-</div>
-
-<div align="center">
-  
-  <!-- Top Languages -->
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Oaoa12&theme=tokyonight&exclude=html,css"
-    height="165"
-    alt="Top Languages"
-  />
-  
-  <!-- Most Used Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oaoa12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"
-    height="165"
-    alt="Most Used Languages"
-  />
-  
-</div>
+</p>
 
 ---
 
